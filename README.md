@@ -4,6 +4,8 @@
 
 This exercise was done as part of the WDI course in General Assembly
 
+<b>Live Demo:</b> http://kksy.github.io/GA-dancing-cats/
+
 ## Instructions
 
 1. Press `start` to make the cat move
